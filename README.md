@@ -12,4 +12,4 @@
 
 <a href="https://codeclimate.com/github/MrsDante/todoList/maintainability"><img src="https://api.codeclimate.com/v1/badges/5fb58e2bc1e81b9cecf2/maintainability" /></a>
 
-[](https://gifs.com/gif/todolist-OgzW9r)
+![hippo](https://gifs.com/gif/todolist-OgzW9r)
